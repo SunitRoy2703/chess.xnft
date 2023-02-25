@@ -1,14 +1,14 @@
 {
-  "name": "Chess.xnft",
+  "name": "chess.xnft",
   "version": "1.0.0",
   "description": "Chess-AI",
-  "website": "http://sunit.in",
+  "website": "https://chess-xnft.vercel.app",
   "kind": "app",
   "icon": {
     "md": "./assets/icon.png"
   },
   "screenshots": [
-    "./assets/screenShot.png"
+    "./assets/screenshot.png"
   ],
   "entrypoints": {
     "default": {
