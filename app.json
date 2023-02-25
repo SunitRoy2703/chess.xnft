@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "chess-xnft",
+    "slug": "chess-xnft",
+    "entryPoint": "./src/App"
+  }
+}
